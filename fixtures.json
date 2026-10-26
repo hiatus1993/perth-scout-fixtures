@@ -1,9 +1,12 @@
 [
-  {"name": "Wildcats v Sydney Kings", "venue": "RAC Arena",  "lat": -31.9505, "lon": 115.8882, "finish": "2026-10-28T21:30", "crowd": 13000},
-  {"name": "Lily Allen",              "venue": "RAC Arena",  "lat": -31.9505, "lon": 115.8882, "finish": "2026-10-28T22:30", "crowd": 12000},
-  {"name": "Hilary Duff",             "venue": "RAC Arena",  "lat": -31.9505, "lon": 115.8882, "finish": "2026-10-29T22:30", "crowd": 12000},
-  {"name": "Wildcats v Illawarra",    "venue": "RAC Arena",  "lat": -31.9505, "lon": 115.8882, "finish": "2026-10-31T21:30", "crowd": 13000},
-  {"name": "Glory v Adelaide",        "venue": "HBF Park",   "lat": -31.9429, "lon": 115.8703, "finish": "2026-11-01T18:45", "crowd": 8000},
-  {"name": "Glory v Newcastle",       "venue": "HBF Park",   "lat": -31.9429, "lon": 115.8703, "finish": "2026-11-07T21:30", "crowd": 8000},
-  {"name": "Wildcats v Cairns",       "venue": "RAC Arena",  "lat": -31.9505, "lon": 115.8882, "finish": "2026-11-08T19:00", "crowd": 13000}
+  {"name":"NBL: Perth Wildcats v Sydney Kings","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-10-28T21:00","crowd":12000},
+  {"name":"Hilary Duff — The Lucky Me Tour","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-10-29T22:30","crowd":10000},
+  {"name":"NBL: Perth Wildcats v Illawarra Hawks","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-10-31T21:00","crowd":12000},
+  {"name":"A-League: Perth Glory v Adelaide United","venue":"HBF Park","lat":-31.9429,"lon":115.8703,"finish":"2026-11-01T17:30","crowd":11000},
+  {"name":"Lily Allen — West End Girl","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-11-01T22:30","crowd":7000},
+  {"name":"A-League: Perth Glory v Newcastle Jets","venue":"HBF Park","lat":-31.9429,"lon":115.8703,"finish":"2026-11-07T21:15","crowd":11000},
+  {"name":"NBL: Perth Wildcats v Cairns Taipans","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-11-08T16:30","crowd":12000},
+  {"name":"NBL: Perth Wildcats v Tasmania JackJumpers","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-11-12T21:00","crowd":12000},
+  {"name":"ODI Cricket: Australia v England","venue":"Optus Stadium","lat":-31.9513,"lon":115.8890,"finish":"2026-11-13T19:30","crowd":45000},
+  {"name":"NBL: Perth Wildcats v Illawarra Hawks","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-11-14T21:00","crowd":12000}
 ]
