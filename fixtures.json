@@ -1,12 +1,18 @@
 [
-  {"name":"NBL: Perth Wildcats v Sydney Kings","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-10-28T21:00","crowd":12000},
-  {"name":"Hilary Duff — The Lucky Me Tour","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-10-29T22:30","crowd":10000},
-  {"name":"NBL: Perth Wildcats v Illawarra Hawks","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-10-31T21:00","crowd":12000},
-  {"name":"A-League: Perth Glory v Adelaide United","venue":"HBF Park","lat":-31.9429,"lon":115.8703,"finish":"2026-11-01T17:30","crowd":11000},
-  {"name":"Lily Allen — West End Girl","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-11-01T22:30","crowd":7000},
-  {"name":"A-League: Perth Glory v Newcastle Jets","venue":"HBF Park","lat":-31.9429,"lon":115.8703,"finish":"2026-11-07T21:15","crowd":11000},
-  {"name":"NBL: Perth Wildcats v Cairns Taipans","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-11-08T16:30","crowd":12000},
-  {"name":"NBL: Perth Wildcats v Tasmania JackJumpers","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-11-12T21:00","crowd":12000},
-  {"name":"ODI Cricket: Australia v England","venue":"Optus Stadium","lat":-31.9513,"lon":115.8890,"finish":"2026-11-13T19:30","crowd":45000},
-  {"name":"NBL: Perth Wildcats v Illawarra Hawks","venue":"RAC Arena","lat":-31.9505,"lon":115.8882,"finish":"2026-11-14T21:00","crowd":12000}
+  {"name":"A-League: Perth Glory v Adelaide United","venue":"HBF Park","lat":-31.9429,"lon":115.8703,"finish":"2026-11-01T17:30","crowd":11000,"category":"a_league"},
+  {"name":"Lily Allen — West End Girl","venue":"RAC Arena","lat":-31.9483,"lon":115.8519,"finish":"2026-11-01T22:30","crowd":7000,"category":"concert"},
+  {"name":"Perth Gem and Mineral Show (day 1)","venue":"Perth Convention and Exhibition Centre","lat":-31.9605,"lon":115.8565,"start":"2026-11-06T09:00","finish":"2026-11-06T17:00","crowd":2000,"category":"conference","note":"dates/hours confirmed (minsocwa.org.au); crowd estimated"},
+  {"name":"Perth Gem and Mineral Show (day 2)","venue":"Perth Convention and Exhibition Centre","lat":-31.9605,"lon":115.8565,"start":"2026-11-07T09:00","finish":"2026-11-07T17:00","crowd":2000,"category":"conference","note":"crowd estimated"},
+  {"name":"General Practice Conference & Exhibition (GPCE) Perth (day 1)","venue":"Perth Convention and Exhibition Centre","lat":-31.9605,"lon":115.8565,"start":"2026-11-07T08:00","finish":"2026-11-07T17:30","crowd":1500,"category":"conference","note":"dates confirmed (clocate.com); times and crowd estimated"},
+  {"name":"A-League: Perth Glory v Newcastle Jets","venue":"HBF Park","lat":-31.9429,"lon":115.8703,"finish":"2026-11-07T21:15","crowd":11000,"category":"a_league"},
+  {"name":"Perth Gem and Mineral Show (day 3)","venue":"Perth Convention and Exhibition Centre","lat":-31.9605,"lon":115.8565,"start":"2026-11-08T09:00","finish":"2026-11-08T17:00","crowd":2000,"category":"conference","note":"crowd estimated"},
+  {"name":"General Practice Conference & Exhibition (GPCE) Perth (day 2)","venue":"Perth Convention and Exhibition Centre","lat":-31.9605,"lon":115.8565,"start":"2026-11-08T08:00","finish":"2026-11-08T17:00","crowd":1500,"category":"conference","note":"times and crowd estimated"},
+  {"name":"NBL: Perth Wildcats v Cairns Taipans","venue":"RAC Arena","lat":-31.9483,"lon":115.8519,"finish":"2026-11-08T16:30","crowd":12000,"category":"nbl"},
+  {"name":"NBL: Perth Wildcats v Tasmania JackJumpers","venue":"RAC Arena","lat":-31.9483,"lon":115.8519,"finish":"2026-11-12T21:00","crowd":12000,"category":"nbl"},
+  {"name":"ODI Cricket: Australia v England","venue":"Optus Stadium","lat":-31.9513,"lon":115.8890,"finish":"2026-11-13T19:30","crowd":45000,"category":"cricket","note":"date confirmed (VenuesWest); start time TBC, finish estimated"},
+  {"name":"NBL: Perth Wildcats v Illawarra Hawks","venue":"RAC Arena","lat":-31.9483,"lon":115.8519,"finish":"2026-11-14T21:00","crowd":12000,"category":"nbl"},
+  {"name":"ASUM 2026 Annual Scientific Meeting (day 1)","venue":"Perth Convention and Exhibition Centre","lat":-31.9605,"lon":115.8565,"start":"2026-11-14T08:00","finish":"2026-11-14T17:30","crowd":800,"category":"conference","note":"dates confirmed (clocate.com); times and crowd estimated"},
+  {"name":"ASUM 2026 Annual Scientific Meeting (day 2)","venue":"Perth Convention and Exhibition Centre","lat":-31.9605,"lon":115.8565,"start":"2026-11-15T08:00","finish":"2026-11-15T17:30","crowd":800,"category":"conference","note":"times and crowd estimated"},
+  {"name":"ASUM 2026 Annual Scientific Meeting (day 3)","venue":"Perth Convention and Exhibition Centre","lat":-31.9605,"lon":115.8565,"start":"2026-11-16T08:00","finish":"2026-11-16T17:00","crowd":800,"category":"conference","note":"times and crowd estimated"},
+  {"name":"ACEM Annual Scientific Meeting (day 1)","venue":"Perth Convention and Exhibition Centre","lat":-31.9605,"lon":115.8565,"start":"2026-11-22T08:00","finish":"2026-11-22T17:30","crowd":1500,"category":"conference","note":"runs 22-26 Nov per ACEM; times and crowd estimated"}
 ]
